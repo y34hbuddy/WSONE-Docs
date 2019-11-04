@@ -28,7 +28,7 @@ To configure device-based accounts in the Workspace ONE UEM console:
 To ensure that the enrollment is easy to perform in bulk, the best option is to use a QR code. A QR code can be created within the Workspace ONE UEM console that includes server details, group ID and authentication details. By simply scanning the QR code during the out of box setup, the device will enroll without any further interaction.
 
 To create a QR code in the Workspace ONE UEM console:
-1. Navigate to Lifecycle > Staging > List view.
+1. Navigate to Lifecycle > Staging > List View.
 2. Click 'Configure Enrollment'.
 3. Select 'Android' and 'QR Code', then click 'Configure'.
 4. You can connect the device to Wi-Fi prior to enrollment by enabling the Wi-Fi toggle. This enabling action displays the following options.
